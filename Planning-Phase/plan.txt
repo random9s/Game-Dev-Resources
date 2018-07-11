@@ -1,7 +1,10 @@
+Starting
+--------
+https://unity3d.com/learn/tutorials/s/developer-advice
+
 How to plan (small team / solo methodologies)
 ---------------------------------------------
 https://hacknplan.com/project-planning-for-solo-game-developers/
-
 
 Common pitfalls
 -----------------
