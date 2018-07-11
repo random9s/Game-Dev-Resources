@@ -1,0 +1,13 @@
+3D Animation Tutorial
+--------------------
+https://www.youtube.com/watch?v=HyVvi-TjHlM
+
+
+Cycles render performance
+--------------------------
+https://www.youtube.com/watch?v=8gSyEpt4-60
+
+
+Cycles Baking
+---------------
+https://www.youtube.com/watch?v=sB09T--_ZvU
